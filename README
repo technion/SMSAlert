@@ -1,0 +1,6 @@
+SMS Alerting application.
+Pipe email through this script like this:
+netbotz:        |/usr/bin/smsalert.pl
+
+Requires a valid clickatell account.
+
